@@ -19,6 +19,7 @@
 		96D269101C697023001EA5D8 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D2690F1C697023001EA5D8 /* CreateAccountViewController.swift */; };
 		96D269121C69702C001EA5D8 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D269111C69702C001EA5D8 /* SignInViewController.swift */; };
 		96D269141C697B9B001EA5D8 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D269131C697B9B001EA5D8 /* SettingsViewController.swift */; };
+		96D269161C69802D001EA5D8 /* TermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D269151C69802D001EA5D8 /* TermsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		96D2690F1C697023001EA5D8 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
 		96D269111C69702C001EA5D8 /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		96D269131C697B9B001EA5D8 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		96D269151C69802D001EA5D8 /* TermsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				96D2690F1C697023001EA5D8 /* CreateAccountViewController.swift */,
 				96D269111C69702C001EA5D8 /* SignInViewController.swift */,
 				96D269131C697B9B001EA5D8 /* SettingsViewController.swift */,
+				96D269151C69802D001EA5D8 /* TermsViewController.swift */,
 			);
 			name = "View Controllers";
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 				96D269121C69702C001EA5D8 /* SignInViewController.swift in Sources */,
 				96D2690B1C696FC5001EA5D8 /* CreateAccountRootViewController.swift in Sources */,
 				969204C21C68754A00A83CC0 /* ViewController.swift in Sources */,
+				96D269161C69802D001EA5D8 /* TermsViewController.swift in Sources */,
 				969204C01C68754A00A83CC0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
